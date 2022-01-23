@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643446482845",
+    "project_id": "imp-project-for-life",
+    "storage_bucket": "imp-project-for-life.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643446482845:android:3a53d5dd5d34d00aacf174",
+        "android_client_info": {
+          "package_name": "com.example.imp_project_for_life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643446482845-8aj7i30j66m5t22flt19b015r2a4uvhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwixSdYEezx-w0LZKuEVWp2cU65NTcsvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643446482845-8aj7i30j66m5t22flt19b015r2a4uvhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

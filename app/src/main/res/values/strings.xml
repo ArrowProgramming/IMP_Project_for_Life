@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMP_Project_for_Life</string>
+    <string name="euro_biking">Euro biking</string>
+    <string name="admin">Admin</string>
+    <string name="user">User</string>
+    <string name="sign_in_as">Sign in as</string>
+</resources>
